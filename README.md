@@ -1,3 +1,3 @@
 # hello-world
-Hi to all good people , bye to all bad people.
-Doniyor is here, I like to drink more water.
+Doniyor is here, a little bit about myself
+I like to drink more water.

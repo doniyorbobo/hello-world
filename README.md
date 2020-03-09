@@ -1,3 +1,3 @@
 # hello-world
-Doniyor is here, a little bit about myself
-I like to drink more water.
+Doniyor is here.
+I like Mac but Microsoft isn't evil, they just make really crappy operating systems.
